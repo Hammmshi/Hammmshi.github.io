@@ -25,7 +25,7 @@ author:
   avatar           : "images/赵海跃-笑.png"
   bio              : "Jiangsu University of Science and Technology"
   location         : "Zhenjiang, China"
-  employer         : "School of Economics and Management"
+  employer         : # "School of Economics and Management"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wgMO6YsAAAAJ&hl=zh-CN"
   email            : "zhydean0125@just.edu.cn"
